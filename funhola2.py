@@ -11,4 +11,4 @@ def hola2(nombre1,nombre2):
     print("\n")
     
 hola2("Jair","Caro")
-hola2("Alexis","Bryan me la pelas")
+hola2("Alexis","Bryan")
