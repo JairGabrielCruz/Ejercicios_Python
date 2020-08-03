@@ -10,4 +10,4 @@ def hola(nombre):
 hola("Jair")
 hola("Caro")
 hola("Alexis")
-hola("Bryan, gei")
+hola("Bryan")
